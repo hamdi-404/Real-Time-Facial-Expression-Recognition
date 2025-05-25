@@ -43,7 +43,7 @@ Each dataset includes 7 facial expression classes:
 
 ## 📧 Contact
 Made by **Hamdi** – Machine Learning Engineer 
-**hamdi404.cs@gmail.com
+**hamdi404.cs@gmail.com**
 For any questions, feel free to reach out or open an issue!
 
 ---
